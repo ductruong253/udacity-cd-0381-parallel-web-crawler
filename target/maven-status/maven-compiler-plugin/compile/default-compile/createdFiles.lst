@@ -28,6 +28,7 @@ com/udacity/webcrawler/WebCrawlerModule.class
 com/udacity/webcrawler/json/CrawlerConfiguration.class
 com/udacity/webcrawler/parser/ParserModule.class
 com/udacity/webcrawler/parser/PageParserImpl$1.class
+com/udacity/webcrawler/CrawlInternal.class
 com/udacity/webcrawler/parser/PageParser$Result$Builder.class
 com/udacity/webcrawler/PopularWordCount.class
 com/udacity/webcrawler/json/CrawlResult$Builder.class

@@ -12,6 +12,7 @@
 /home/truongdd/git/udacity-cd-0381-parallel-web-crawler/src/main/java/com/udacity/webcrawler/profiler/Profiler.java
 /home/truongdd/git/udacity-cd-0381-parallel-web-crawler/src/main/java/com/udacity/webcrawler/parser/IgnoredWords.java
 /home/truongdd/git/udacity-cd-0381-parallel-web-crawler/src/main/java/com/udacity/webcrawler/json/CrawlResult.java
+/home/truongdd/git/udacity-cd-0381-parallel-web-crawler/src/main/java/com/udacity/webcrawler/CrawlInternal.java
 /home/truongdd/git/udacity-cd-0381-parallel-web-crawler/src/main/java/com/udacity/webcrawler/profiler/Profiled.java
 /home/truongdd/git/udacity-cd-0381-parallel-web-crawler/src/main/java/com/udacity/webcrawler/profiler/ProfilingState.java
 /home/truongdd/git/udacity-cd-0381-parallel-web-crawler/src/main/java/com/udacity/webcrawler/WebCrawler.java
